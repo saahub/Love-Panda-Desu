@@ -116,10 +116,11 @@ h6 {
 
 .ingray {
 	filter: grayscale(100%);
-	width: 100%;
+	width: 100vw;
 	height: 400px;
 	object-fit: cover;
 	object-position: 50% 50%;
+
 }
 
 
